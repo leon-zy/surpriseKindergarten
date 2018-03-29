@@ -1,0 +1,36 @@
+.index-icon {
+    background: url(images/navigation_icon.png) no-repeat -1px -26px;
+    margin: 0px;
+    width: 95px;
+}
+.about-icon {
+    background: url(images/navigation_icon.png) no-repeat -1px -114px;
+    margin: 0px;
+    width: 122px;
+}
+.facilities-icon {
+    background: url(images/navigation_icon.png) no-repeat -1px -203px;
+    margin: 0px;
+    width: 122px;
+}
+.classes-icon {
+    background: url(images/navigation_icon.png) no-repeat -1px -289px;
+    margin: 0px;
+    width: 122px;
+}
+.newsBlog-icon {
+    background: url(images/navigation_icon.png) no-repeat -1px -381px;
+    margin: 0px;
+    width: 122px;
+}
+.recruit-icon {
+    background: url(images/navigation_icon.png) no-repeat -1px -473px;
+    margin: 0px;
+    width: 122px;
+}
+.contact-icon {
+    background: url(images/navigation_icon.png) no-repeat -1px -567px;
+    margin: 0px;
+    width: 122px;
+}
+
